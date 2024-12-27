@@ -9,6 +9,7 @@ I’m passionate about AR/VR, design, and innovation. My interest lies in creati
 - 🔭 Exploring AR and VR
 - 🌱 Learning Swift
 
+Learn more about me at [nicoprasetyo.com](https://nicoprasetyo.com). <br>
 Feel free to connect on [LinkedIn](www.linkedin.com/in/nicoprasetyo) or reach me out via email at (me@nicoprasetyo.com). <br>
 Looking forward to connecting with new people!
 
