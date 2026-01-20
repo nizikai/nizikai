@@ -2,6 +2,8 @@
 
 I'm passionate about crafting experimental, immersive digital experiences that are not screen-bound. Brings hands-on experience in UI/UX design, application development, cross-functional project management, AR, AI/ML, and delivering production-ready websites and apps.
 
+
+
 Currently exploring not boring ways of interacting with tech.
 #
 
