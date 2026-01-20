@@ -1,13 +1,10 @@
 # Hi! I am Nico.
-👋
 
-I’m passionate about AR/VR, design, and innovation. My interest lies in creating an interactive way for the digital and real worlds to seamlessly blend. I have extensive experience working as part of a team, managing a team, and also working individually. Looking forward to solve real problems ahead by learning continuously!
+Passionate about crafting experimental, immersive digital experiences that are not screen-bound. Brings hands-on experience in UI/UX design, application development, cross-functional project management, AR, AI/ML, and delivering production-ready websites and apps.
 
 #
 
-- 📍 Currently based in Surabaya, Indonesia
-- 🔭 Exploring AR and VR
-- 🌱 Learning Swift
+Currently exploring not boring ways of interacting with tech.
 
 Learn more about me at [nicoprasetyo.com](https://nicoprasetyo.com). <br>
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nicoprasetyo/) or reach me out via email at (me@nicoprasetyo.com). <br>
